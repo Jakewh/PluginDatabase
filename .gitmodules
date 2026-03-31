@@ -82,3 +82,6 @@
 [submodule "plugins/Steam-price-converter-plugin"]
 	path = plugins/Steam-price-converter-plugin
 	url = https://github.com/Jakewh/Steam-price-converter-plugin
+[submodule "plugins/steam-price-converter-plugin"]
+	path = plugins/steam-price-converter-plugin
+	url = https://github.com/Jakewh/Steam-price-converter-plugin
