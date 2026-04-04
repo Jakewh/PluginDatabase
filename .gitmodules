@@ -4,12 +4,6 @@
 [submodule "plugins/adamraichu.auto-accept-custom-launch-args"]
 	path = plugins/adamraichu.auto-accept-custom-launch-args
 	url = https://github.com/AdamRaichu/auto-accept-custom-launch-args
-[submodule "plugins/steamdb"]
-	path = plugins/steamdb
-	url = https://github.com/BossSloth/Steam-SteamDB-extension
-[submodule "plugins/augmented-steam"]
-	path = plugins/augmented-steam
-	url = https://github.com/BossSloth/AugmentedSteam-Extension-Plugin
 [submodule "plugins/millennium-faceit-stats"]
 	path = plugins/millennium-faceit-stats
 	url = https://github.com/alowave/millennium-faceit-stats
