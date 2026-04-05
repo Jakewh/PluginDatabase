@@ -49,16 +49,16 @@ In case you wish to clone plugins at their attached commits, run `git submodule 
 The following table describes the remaining deprecated Python plugins that need to be ported to Lua.
 Python is no longer officially supported by Millennium and will be removed entirely in a future update.
 
-**Total**: 27
+**Total**: 25
  * **Lua**: 24
- * **Python**: 3
+ * **Python**: 1
 
 
 | Lua | Python |
 |-----|--------|
-| RSS-feed-in-whats-new | augmented-steam |
-| achievement-groups | extendium |
-| adamraichu.auto-accept-custom-launch-args | steamdb |
+| RSS-feed-in-whats-new | extendium |
+| achievement-groups |  |
+| adamraichu.auto-accept-custom-launch-args |  |
 | aerothemesteam |  |
 | csstats-extension |  |
 | cswatch-plugin |  |
