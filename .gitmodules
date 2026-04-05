@@ -82,3 +82,6 @@
 [submodule "game-engine-info"]
 	path = game-engine-info
 	url = https://github.com/Jakewh/Game-engine-info
+[submodule "steam-price-converter"]
+	path = steam-price-converter
+	url = https://github.com/Jakewh/Steam-price-converter-plugin
